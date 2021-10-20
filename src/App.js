@@ -4,7 +4,7 @@ import Keyboard from './components/Keyboard/Keyboard';
 import Display from './components/Actions/Display';
 
 function App() {
-  const phoneNumber = 667359961;
+  const phoneNumber = [6, 6, 7, 3, 5, 9, 9, 6, 1];
   return (
     <div className="container">
       <Info />
