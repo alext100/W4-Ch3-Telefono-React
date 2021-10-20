@@ -1,3 +1,5 @@
+import "./Display.css"
+
 const Display = ({ phoneNumber }) => {
     return (
         <span className="number">{phoneNumber}</span>
