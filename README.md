@@ -36,6 +36,7 @@ Lista de responsabilidades: (no terminada)
 
          - Renderiza un boton
 
+
 - Keyboard
 
   - Tiene contenedor para teclas y renderiza todas las teclas con números y Delete. (<li> Key </li>
