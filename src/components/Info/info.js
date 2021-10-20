@@ -1,6 +1,6 @@
 const Info = (isCalling) => {
     return (
-        <span class="message">{isCalling ? "Calling..." : ""}</span>
+        <span className="message">{isCalling ? "Calling..." : ""}</span>
     )
 }
 
